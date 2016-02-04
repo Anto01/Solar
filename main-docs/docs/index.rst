@@ -8,6 +8,8 @@
 Documentation pour le cours ENR835
 TESTS
 
+ceci est un test
+
 Contents:
 
 .. toctree::
