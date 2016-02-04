@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ENR835's documentation!
-==================================
+*ENR835 : Technologies des systèmes solaires*
+=============================================
+Documentation pour le cours ENR835
+TESTS
 
 Contents:
 
@@ -12,6 +14,12 @@ Contents:
    :maxdepth: 2
 
    includeme
+   ENR835
+   python
+   sphinx
+   devoir
+   projet
+   trnsys
 
 
 
