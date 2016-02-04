@@ -1,0 +1,4 @@
+includeme
+=========
+
+.. include:: ../../README.rst
