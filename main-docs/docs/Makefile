@@ -5,7 +5,7 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
-BUILDDIR      = ../../sphinxdoc-test-docs
+BUILDDIR      = ../../sphinx-docs
 PDFBUILDDIR   = /tmp
 PDF           = ../manual.pdf
 
